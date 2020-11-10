@@ -1,0 +1,21 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+#nav-list{
+	text-align: center;
+}
+
+#nav-list a{
+
+}
+
+.mitem{
+	text-align: center;
+	background-color: #ccffaa;
+	margin-bottom: 10px;
+}
+
+.mitem p{
+	margin: 20px;
+}
